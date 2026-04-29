@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.BTKeyInject" parent="android:Theme.Material.NoActionBar">
+        <item name="android:colorPrimary">#FF0D47A1</item>
+        <item name="android:colorAccent">#FF448AFF</item>
+        <item name="android:statusBarColor">#FF0D47A1</item>
+    </style>
+</resources>
